@@ -221,7 +221,7 @@ html {
   display: none;
 }
 
-@media only screen and (max-width: 1024px) and (min-width:481px) {
+@media only screen and (max-width: 1024px) and (min-width:471px) {
   .three  {
     display: none;
   }
@@ -301,10 +301,10 @@ html {
   }
 }
 
-@media only screen and (max-width: 480px)
+@media only screen and (max-width: 470px)
 {
   html {
-    width: 480px;
+    width: 470px;
   }
   .three {
     display: none;
@@ -321,7 +321,7 @@ html {
     justify-content: center;
   }
   .largefour {
-    width: 480px;
+    width: 470px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -394,7 +394,7 @@ html {
     height: 15rem;
     display: flex;
     align-items: flex-end;
-    width: 480px;
+    width: 470px;
   }
   .bigtop p {
     width: 92.5%;
